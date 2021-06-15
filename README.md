@@ -10,16 +10,14 @@ Once the HTML page is up and running the title: The Truth is Out There will be t
 
 Next, the search criteria come into play. If her audience wishes to look up UFO sightings by date, the Date, City, State, County, Shape, Duration, and Comments are the fields that will output the search. For example, if we wish to know if there were any sighting using 1/10/2010 as the entered date, the following will show:
 
-![Results for UFO Search]
-(https://github.com/cynmmarin/UFOs/blob/56ef617f463fe9d60755453affc95f715fcb716c/static/images/Results%20for%20UFO%20Search.png
+![Results for UFO Search](https://github.com/cynmmarin/UFOs/blob/56ef617f463fe9d60755453affc95f715fcb716c/static/images/Results%20for%20UFO%20Search.png)
 
 By filtering her data, we can provide the audience with a complete understanding of the location, the shape that was sighted and the specific comments to this occurrence. JavaScript allow for us to mold the data into what fits our needs and can be changed if we feel that the audience finds out layout to be difficult to interpret.  
 
 ## Summary 
 This project we will be helped Dana, a data journalist created a website interface for her to display the UFOs sightings in Oregon. Using the gathered data found in a JavaScript file with information of sighting in different cities, state and country. By using JavaScript to manipulate the data and the usage of filters we were able to display her findings in a HTML page. 
 
-![Site]
-(https://github.com/cynmmarin/UFOs/blob/56ef617f463fe9d60755453affc95f715fcb716c/static/images/Site.png)
+![Site](https://github.com/cynmmarin/UFOs/blob/56ef617f463fe9d60755453affc95f715fcb716c/static/images/Site.png)
 
 However, there is a throwback on this design, if the audience wishes to filter by location, to see if there are any sighting near them that they can go visit. If this was the case, they would be unable to find that out by the present filtering system we have. Our filter only provides the option to filter by date. A couples of solutions can help with this problem. First, we can create new options to allow the visitors of the site to filter by location, that is either by City, State, or Country. The second recommendation would be to be ablet o search by key word, if this filter is created it would cater to the audiences needs and they would be able to search for a sighting that contains a specific aspect they are looking for. Overall, the present design works for Dana s wishes, but the data is limiting and not tailored to her audience. 
 
