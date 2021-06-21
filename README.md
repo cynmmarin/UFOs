@@ -1,5 +1,4 @@
 # UFOs
-# Mission to Mars Analysis
 
 ## Overview of Project
 
